@@ -96,6 +96,19 @@ The project follows a structured analytics approach:
 
 ---
 
+## Dashboard Screenshots
+
+### Executive Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### KPI Section
+![KPI Section](screenshots/kpi_overview.png)
+
+### Sales Trend Analysis
+![Sales Trend](/screenshots/sales_trend%20%26%20charts_overview.png)
+
+---
+
 ## Key Insights
 This dashboard helps uncover:
 
